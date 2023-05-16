@@ -1,0 +1,7 @@
+2023-05-16 22:05:254 INFO  LoginPage :30 - Entering username in Username field:standard_user
+2023-05-16 22:05:387 INFO  LoginPage :35 - Entering password in Password field:secret_sauce
+2023-05-16 22:05:475 INFO  LoginPage :41 - Clicking on Login Button : [[ChromeDriver: chrome on WINDOWS (a5195ded62de83f4478876737bfaf0d9)] -> id: login-button]
+2023-05-16 22:05:592 INFO  LoginPage :37 - Entering username in Username field:standard_user
+2023-05-16 22:05:702 INFO  LoginPage :42 - Entering password in Password field:secret_sauce
+2023-05-16 22:05:785 INFO  LoginPage :48 - Clicking on Login Button : [[ChromeDriver: chrome on WINDOWS (2a486332bcaa90ed591fd03e5fdf7dc1)] -> id: login-button]
+2023-05-16 22:05:886 INFO  LoginPage :54 - Getting Products Text :[[ChromeDriver: chrome on WINDOWS (2a486332bcaa90ed591fd03e5fdf7dc1)] -> xpath: //span[contains(text(),'Products')]]
